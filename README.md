@@ -1,3 +1,8 @@
+<img src=altaieu.png>
+<br>
+<img src=Western Altepa Desert.png>
+<br>
+
 <header> Completed Maps </header>
 <br>
 <table>
