@@ -1,6 +1,6 @@
-<img src=altaieu.png>
+<img src=ruaun_gardens.png>
 <br>
-<img src=Western Altepa Desert.png>
+<img src=Western_Altepa_Desert.png>
 <br>
 
 <header> Completed Maps </header>
